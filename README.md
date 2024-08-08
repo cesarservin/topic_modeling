@@ -6,7 +6,7 @@ What `problem` does it `solve`?
 This project identifies `topics` from text (`product descriptions`) to reveal underlying themes and highlight the `unique words` within each topic. This can be use in other `NLP` (Natural language processing) based projects.
 
 
-![Logo](docs\img\topic_modeling_Logo.jpg)
+![Logo](docs/img/topic_modeling_Logo.jpg)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
@@ -59,7 +59,7 @@ This project identifies `topics` from text (`product descriptions`) to reveal un
 - **Structure**: Table of key features
 
 
-| Text      | 
+| Text      |
 | :-------- |
 | `string`  |
 
