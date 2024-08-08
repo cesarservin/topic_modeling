@@ -1,3 +1,3 @@
 Data
 ==============
-::: nlp_cpu.data.etl
+::: data.etl

@@ -1,4 +1,4 @@
 Models
 ==============
 
-::: nlp_cpu.model.nlp
+::: model.nlp
